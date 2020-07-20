@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "backgroundImage": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/launcher_background.jpg",
+  "socketAddress": "",
+  "messageBoxes": [
+    {
+      "caption": "Test",
+      "message": "test Message"
+    }
+  ],
+  "ipAddressChecker": "http://icanhazip.com"
+
+}
