@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "updateUrl": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/update.exe",
   "backgroundImage": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/launcher_background.jpg",
-  "socketAddress": "",
+  "socketAddress": "https://localhost:3000",
   "messageBoxes": [
     {
       "caption": "Test",
