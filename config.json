@@ -2,12 +2,8 @@
   "version": "1.0.0",
   "updateUrl": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/update.exe",
   "backgroundImage": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/launcher_background.jpg",
-  "socketAddress": "http://localhost:3000",
+  "socketAddress": "https://www.kurdishrealrp.com:8443",
   "messageBoxes": [
-    {
-      "caption": "Test",
-      "message": "test Message"
-    }
   ],
   "ipAddressChecker": "http://icanhazip.com"
 
