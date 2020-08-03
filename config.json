@@ -1,8 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "updateUrl": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/setup.exe",
   "backgroundImage": "https://raw.githubusercontent.com/pawanosman/kurdishrealrppublic/master/launcher_background.jpg",
   "socketAddress": "https://www.kurdishrealrp.com:8443",
+  "banMessage": {
+	"caption": "You are Banned!",
+	"message": "You are banned! your connection terminated"
+  },
   "messageBoxes": [
   ],
   "ipAddressChecker": "http://icanhazip.com"
