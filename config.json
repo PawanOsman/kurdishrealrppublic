@@ -10,6 +10,6 @@
   },
   "messageBoxes": [
   ],
-  "ipAddressChecker": "http://icanhazip.com"
+  "ipAddressChecker": "http://api.ipify.org"
 
 }
